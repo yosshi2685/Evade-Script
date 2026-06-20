@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:6A00FF,100:00BFFF&text=OVERPOWERED+EVADE+SCRIPT&fontSize=85&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:6A00FF,100:00BFFF&text=EVADE&fontSize=85&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1200&color=7B68EE&center=true&vCenter=true&width=1000&lines=Ultimate+Fan+Project;Overpowered+Evade+Script;Fastest+And+Most+Effective+Script;Auto+Farm+And+More">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1200&color=7B68EE&center=true&vCenter=true&width=1000&lines=Evade+Community+Hub;Ultimate+Fan+Project;Guides+Resources+And+Tools;Stay+Ahead+Of+The+Nextbots">
 </p>
 
-# 🎮 OVERPOWERED EVADE SCRIPT
+# 🎮 EVADE SCRIPT
 
 ### COMMUNITY HUB
 
