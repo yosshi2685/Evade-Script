@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:6A00FF,100:00BFFF&text=EVADE&fontSize=85&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1200&color=7B68EE&center=true&vCenter=true&width=1000&lines=Ultimate+Fan+Project;Overpowered+Evade+Script;Fastest+And+Most+Effective+Script;Auto+Farm+And+More">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1200&color=7B68EE&center=true&vCenter=true&width=1000&lines=Get+God+Mode;Auto+Farm+Money;Auto+Kill;Auto+Respawn+Auto+Revive">
 </p>
 
 # 🎮 EVADE SCRIPT
@@ -30,8 +30,7 @@
 
 # 🌟 ABOUT
 
-A very overpowered Evade script that allows you to play this game with differently impression. As you can see, the script supports a large number of functions, one of them is Money Auto Farm, it will automatically farm for you money!
-
+You can use evade script to unlock auto farming, auto farm money, auto kill, auto respawn, auto revive, auto win, auto jump, get God Mode, Auto jump and many more features.
 ---
 
 # ✨ FEATURES
