@@ -8,8 +8,6 @@
 
 # 🎮 EVADE SCRIPT
 
-### COMMUNITY HUB
-
 <img src="https://img.shields.io/badge/GAME-EVADE-7B68EE?style=for-the-badge">
 <img src="https://img.shields.io/badge/COMMUNITY-ACTIVE-00BFFF?style=for-the-badge">
 <img src="https://img.shields.io/badge/STATUS-ONLINE-success?style=for-the-badge">
