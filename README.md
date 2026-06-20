@@ -17,7 +17,7 @@
 <br><br>
 
 <a href="https://www.mediafire.com/folder/qzgsrhq62al4t/Roblox">
-<img src="https://img.shields.io/badge/JOIN_COMMUNITY-7B68EE?style=for-the-badge&labelColor=111111" height="90">
+<img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20NOW-7B68EE?style=for-the-badge&labelColor=111111" height="90">
 </a>
 
 <br><br>
