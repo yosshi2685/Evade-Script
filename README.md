@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:6A00FF,100:00BFFF&text=EVADE&fontSize=85&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:6A00FF,100:00BFFF&text=OVERPOWERED+EVADE+SCRIPT&fontSize=85&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1200&color=7B68EE&center=true&vCenter=true&width=1000&lines=Evade+Community+Hub;Ultimate+Fan+Project;Guides+Resources+And+Tools;Stay+Ahead+Of+The+Nextbots">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1200&color=7B68EE&center=true&vCenter=true&width=1000&lines=Ultimate+Fan+Project;Overpowered+Evade+Script;Fastest+And+Most+Effective+Script;Auto+Farm+And+More">
 </p>
 
-# 🎮 EVADE
+# 🎮 OVERPOWERED EVADE SCRIPT
 
 ### COMMUNITY HUB
 
@@ -22,7 +22,7 @@
 
 <br><br>
 
-🏃 Survive • ⚡ React • 👾 Escape
+🎯 Auto Farm • ⚡ Fastest Script • 👾 Overpowered
 
 </div>
 
@@ -30,9 +30,7 @@
 
 # 🌟 ABOUT
 
-Evade is one of the most popular survival experiences where players must evade relentless Nextbots, work together, and stay alive.
-
-This hub provides resources, information, updates and community content for Evade fans.
+Overpowered Evade Script is a powerful script for the Evade game that allows you to play with a new experience. This script supports a variety of features, including auto farm.
 
 ---
 
@@ -45,11 +43,9 @@ This hub provides resources, information, updates and community content for Evad
 
 ## 🎮 Gameplay
 
-- Beginner Guides
-- Advanced Tips
-- Survival Strategies
-- Map Knowledge
-- Team Play Advice
+- Auto Farm
+- Fastest Script
+- Overpowered
 
 </td>
 
@@ -58,10 +54,8 @@ This hub provides resources, information, updates and community content for Evad
 ## 🚀 Community
 
 - News & Updates
-- Resources
-- Useful Information
-- Community Content
-- Project Showcase
+- Resources & Information
+- Community & Projects
 
 </td>
 
@@ -72,15 +66,11 @@ This hub provides resources, information, updates and community content for Evad
 
 # 🏆 HIGHLIGHTS
 
-✅ Community Driven
-
-✅ Beginner Friendly
-
-✅ Regular Updates
-
-✅ Modern Design
-
-✅ Organized Resources
+✅ Fastest Gameplay
+✅ Auto Farm
+✅ Overpowered
+✅ Fast Updates
+✅ Useful Information
 
 ---
 
@@ -88,11 +78,11 @@ This hub provides resources, information, updates and community content for Evad
 
 | Category | Status |
 |----------|----------|
-| Guides | ✅ |
-| Resources | ✅ |
-| Community | ✅ |
-| Updates | ✅ |
-| Information | ✅ |
+| Auto Farm | ✅ |
+| Fastest Script | ✅ |
+| Overpowered | ✅ |
+| News & Updates | ✅ |
+| Resources & Information | ✅ |
 
 ---
 
@@ -100,13 +90,11 @@ This hub provides resources, information, updates and community content for Evad
 
 <div align="center">
 
-### ⚡ Fast-Paced Gameplay
+### ⚡ Fastest Gameplay
 
-### 👾 Dangerous Nextbots
+### 👾 Overpowered
 
-### 🏃 Intense Chases
-
-### 🎯 Team Survival
+### 🎯 Auto Farm
 
 </div>
 
@@ -114,11 +102,9 @@ This hub provides resources, information, updates and community content for Evad
 
 # 🚀 GET STARTED
 
-1. Join the game.
-2. Learn the maps.
-3. Stay with teammates.
-4. Avoid Nextbots.
-5. Survive as long as possible.
+1. Download the script from MediaFire.
+2. Extract the downloaded file.
+3. Start playing!
 
 ---
 
@@ -126,7 +112,7 @@ This hub provides resources, information, updates and community content for Evad
 
 # ⭐ SUPPORT THE PROJECT
 
-If you enjoy Evade, consider starring this repository.
+If you enjoy Overpowered Evade Script, consider starring this repository.
 
 <br>
 
