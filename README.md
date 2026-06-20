@@ -30,7 +30,7 @@
 
 # 🌟 ABOUT
 
-Overpowered Evade Script is a powerful script for the Evade game that allows you to play with a new experience. This script supports a variety of features, including auto farm.
+A very overpowered Evade script that allows you to play this game with differently impression. As you can see, the script supports a large number of functions, one of them is Money Auto Farm, it will automatically farm for you money!
 
 ---
 
