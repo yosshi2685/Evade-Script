@@ -46,18 +46,7 @@ You can use evade script to unlock auto farming, auto farm money, auto kill, aut
 
 </td>
 
-<td width="50%">
 
-## 🚀 Community
-
-- News & Updates
-- Resources & Information
-- Community & Projects
-
-</td>
-
-</tr>
-</table>
 
 ---
 
