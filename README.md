@@ -31,25 +31,6 @@
 You can use evade script to unlock auto farming, auto farm money, auto kill, auto respawn, auto revive, auto win, auto jump, get God Mode, Auto jump and many more features.
 ---
 
-# ✨ FEATURES
-
-<table>
-<tr>
-
-<td width="50%">
-
-## 🎮 Gameplay
-
-- Auto Farm
-- Fastest Script
-- Overpowered
-
-</td>
-
-
-
----
-
 # 🏆 HIGHLIGHTS
 
 ✅ Fastest Gameplay
@@ -57,18 +38,6 @@ You can use evade script to unlock auto farming, auto farm money, auto kill, aut
 ✅ Overpowered
 ✅ Fast Updates
 ✅ Useful Information
-
----
-
-# 📊 OVERVIEW
-
-| Category | Status |
-|----------|----------|
-| Auto Farm | ✅ |
-| Fastest Script | ✅ |
-| Overpowered | ✅ |
-| News & Updates | ✅ |
-| Resources & Information | ✅ |
 
 ---
 
